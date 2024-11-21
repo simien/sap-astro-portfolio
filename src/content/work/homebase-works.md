@@ -1,11 +1,10 @@
 ---
-title: h2.0
-publishDate: 2019-10-02 00:00:00
-img: /assets/stock-4.jpg
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+title: HomeBase Works
+publishDate: 2020-10-02 00:00:00
+img: /assets/SAP-Featured-Homebase.png
+img_alt: Featured Homebase Image
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Affordable workspaces and services for individuals and teams.
 tags:
   - Design
   - Branding
