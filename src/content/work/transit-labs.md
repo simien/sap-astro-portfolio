@@ -17,7 +17,7 @@ tags:
 
 Transit Labs measures outcomes and projects future needs through a multifaceted approach using SaaS (Software as a Service).
 
-As the Creative Director for Transit Labs, I spearheaded the design and branding efforts for an innovative SaaS platform. This platform is pivotal in transforming how transit authorities manage and report data, ensuring compliance with federal funding requirements. Our multifaceted approach integrates transit and data seamlessly, providing a robust solution for public transportation systems.
+As the Creative Director for Transit Labs, I spearheaded the design and branding efforts for an innovative SaaS platform. This platform is pivotal in transforming how transit authorities manage and report data, ensuring compliance with federal funding requirements. Our approach integrates transit and data seamlessly, providing a robust solution for public transportation systems.
 
 <br/><br/>
 
@@ -77,22 +77,6 @@ Produced detailed design specifications and a comprehensive style guide to ensur
 ---
 ---
 
-## Visual Showcase
-
-##### Include high-quality images of:
-
-- Brand Identity Elements: Display logos, color palettes, and typography that define the brand's visual language.
-- UI Designs: Showcase key TAP modules such as Dashboard, NTD Reporting, and Account Management with before-and-after comparisons.
-- Collaborative Sessions: Include photos from whiteboard sessions to highlight teamwork in problem-solving.
-
-<br/><br/>
-
----
----
----
----
----
-
 ## Challenges and Solutions
 
 "One of the primary challenges was designing an intuitive interface for complex data validation processes. Our solution involved creating a real-time validation system with dynamic issue resolution guidance. This approach streamlined the federal funding application process for transit authorities, reducing errors and enhancing efficiency."
@@ -104,11 +88,27 @@ Produced detailed design specifications and a comprehensive style guide to ensur
 ---
 ---
 ---
----
 
 ## Results and Impact
 
 The redesigned TAP platform significantly improved data reporting efficiency for transit authorities. By reducing validation errors, it ensured timely federal funding approvals. The intuitive design received positive feedback from users across multiple transit agencies, showcasing its effectiveness in real-world applications.
+
+<br/><br/>
+
+---
+---
+---
+---
+---
+---
+
+## Visual Showcase
+
+##### Include high-quality images of:
+
+- Brand Identity Elements: Display logos, color palettes, and typography that define the brand's visual language.
+- UI Designs: Showcase key TAP modules such as Dashboard, NTD Reporting, and Account Management with before-and-after comparisons.
+- Collaborative Sessions: Include photos from whiteboard sessions to highlight teamwork in problem-solving.
 
 <br/><br/>
 
